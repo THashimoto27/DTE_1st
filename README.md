@@ -2,7 +2,9 @@
 
 # 1st
 
-<Human beings>
+## Assumptions
+
+### Human beings
 - Human beings is like animal who accords only two desires (the desire of appetite and sleeping) for their acts.
   
 - They gonna be dead if the desire of appetite is lower than 100
@@ -11,8 +13,10 @@
   
 - No memory, No other desire
   
-<Environment>
+### Environment
 - Apples are on the ground which can be eaten by human beings.
 
-<Community>
+### Community
 - No any restrictions
+
+## Result
