@@ -20,3 +20,7 @@
 - No any restrictions
 
 ## Result
+<video width="320" height="240" controls>
+  <source src="https://youtu.be/bjMbSA3Y2Y0" type="video/mp4">
+</video>
+https://youtu.be/bjMbSA3Y2Y0
