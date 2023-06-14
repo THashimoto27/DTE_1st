@@ -23,5 +23,5 @@
 [![](ScreenShot00002.png)](https://youtu.be/bjMbSA3Y2Y0 "post title")
 https://youtu.be/bjMbSA3Y2Y0
 
-[![](0614_Time.png)]
+<img src="0614_Time.png" alt="drawing" width="200"/>
 [![alt_text](0614_HP.png)]("")
