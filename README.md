@@ -1,6 +1,4 @@
-# EDT
-
-# 1st
+# EDT 1st
 
 ## Assumptions and Settings
 
