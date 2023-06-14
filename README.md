@@ -15,7 +15,7 @@
 
 #### Settings
 
-##### Behavior Tree
+##### [Behavior Tree]
 <img src="1stBehaviorTree.png" alt="drawing" width="680"/>
 
 
