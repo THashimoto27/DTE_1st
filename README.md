@@ -15,6 +15,8 @@ The third aspect is to focuses on the human limitation. Human beings cannot get 
 
 These three limitations, a geographical limitation, a time limitation and human limitation, is the major limitation in the Digital Twin economic model and improve analysis for economics. Also, they can bring us other benefits because these limitation make economic model more realistic.
 
+<img src="./fig/common/three_restrictions.png" alt="drawing" width="680"/>
+
 ## Goal for the  1st Attempt
 
 To achieve our final goal, we need to cumulate some small steps that does not looks like far away from the final goal. However, as it is said that Rome is not be able to be built one day suddenly, we go forward with our enough patient.
@@ -52,12 +54,12 @@ Besides, I tried to create other enivronments that is slightly changed from the 
 
 ## Base
 - I tried to execution this simulation at 25 times
-[![](ScreenShot00002.png)](https://youtu.be/bjMbSA3Y2Y0 "post title")
+[![](./fig/1st/1st.png)](https://youtu.be/bjMbSA3Y2Y0 "post title")
 https://youtu.be/bjMbSA3Y2Y0
 
 ## Half
 https://www.youtube.com/watch?v=lSqyQv6jtYU
-[![](ScreenShot00000.png)](https://www.youtube.com/watch?v=lSqyQv6jtYU "post title")
+[![](./fig/1st/1st1.png)](https://www.youtube.com/watch?v=lSqyQv6jtYU "post title")
 https://youtu.be/bjMbSA3Y2Y0
 
 # Result
@@ -69,13 +71,13 @@ https://youtu.be/bjMbSA3Y2Y0
 In this case, their consumtion is for only foods (apple) and that connects directly with their HP.
 So, their level of the utility shows their lifetime span in this simulation.
 
-<img src="0614_Time.png" alt="drawing" width="680"/>
+<img src="./fig/1st/1st_Time.png" alt="drawing" width="680"/>
 
 With results on it, the average of their lifetime span is 177.05.
 
 ### HP
 And then, their activity for HP is in the following.
-<img src="0614_HP.png" alt="drawing" width="680"/>
+<img src="./fig/1st/1st_HP.png" alt="drawing" width="680"/>
 
 Once they got sleep, they stop their activity to get HP, so they gonna dead before they will get slep at the second time.
 Besides on this, this case does not give new food at the same place as they got it at once. So, as time goes, it will be harder for them to find new food.
@@ -84,11 +86,11 @@ Besides on this, this case does not give new food at the same place as they got 
 
 ### Time
 
-<img src="0614_1st1Time.png" alt="drawing" width="680"/>
+<img src="./fig/1st1/1st1_Time.png" alt="drawing" width="680"/>
 
 ### HP
 
-<img src="0614_1stsHP.png" alt="drawing" width="680"/>
+<img src="./fig/1st1/1st1_HP.png" alt="drawing" width="680"/>
 
 
 ## Comparison between Base and Half
