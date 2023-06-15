@@ -28,14 +28,20 @@
 - No any restrictions
 
 # Simulation
+
+## Base
 - I tried to execution this simulation at 25 times
 [![](ScreenShot00002.png)](https://youtu.be/bjMbSA3Y2Y0 "post title")
 https://youtu.be/bjMbSA3Y2Y0
 
+## Half
+
 
 # Result
 
-## Time
+## Base
+
+### Time
 
 In this case, their consumtion is for only foods (apple) and that connects directly with their HP.
 So, their level of the utility shows their lifetime span in this simulation.
@@ -44,11 +50,25 @@ So, their level of the utility shows their lifetime span in this simulation.
 
 With results on it, the average of their lifetime span is 177.05.
 
+### HP
 And then, their activity for HP is in the following.
 <img src="0614_HP.png" alt="drawing" width="680"/>
 
 Once they got sleep, they stop their activity to get HP, so they gonna dead before they will get slep at the second time.
 Besides on this, this case does not give new food at the same place as they got it at once. So, as time goes, it will be harder for them to find new food.
+
+## Half
+
+### Time
+
+<img src="0614_1st1Time.png" alt="drawing" width="680"/>
+
+### HP
+
+<img src="0614_1st1HP.png" alt="drawing" width="680"/>
+
+
+## Comparison between Base and Half
 
 # Conclusion
 
