@@ -32,15 +32,26 @@ Besides, I tried to create other enivronments that is slightly changed from the 
 ### Assumptions
 - Human beings is like animal who accords only two desires (the desire of appetite and sleeping) for their acts.
   
-- They gonna be dead if the desire of appetite is lower than 100
+- They are going to be dead if the desire of appetite is lower than 100
   
-- They gonna be sleep if the desire of sleeping is lower than 5 until it will be restored at around 90
+- They are going to be sleep if the desire of sleeping is lower than 5 until it will be restored at around 90
   
 - No memory, No other desire
 
 ### Settings
 
 #### [Behavior Tree]
+
+[Desire for Appetite]
+- Patrol if there is nothing on their sights on the perceptions
+- Move if there is some foods on their sights on the perceptions
+- Have foods
+
+[Desire for Sleep]
+- Stop and Get Sleep if the desire for sleep is under 5
+- Increases the desire for sleep while being sleep
+- Re-Moving if the desire fore sleep is over 90
+
 <img src="./fig/common/1stBehaviorTree.png" alt="drawing" width="680"/>
 
 
