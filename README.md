@@ -59,7 +59,7 @@ https://youtu.be/bjMbSA3Y2Y0
 
 ## Half
 https://www.youtube.com/watch?v=lSqyQv6jtYU
-[![](./fig/1st/1st1.png)](https://www.youtube.com/watch?v=lSqyQv6jtYU "post title")
+[![](./fig/1st1/1st1.png)](https://www.youtube.com/watch?v=lSqyQv6jtYU "post title")
 https://youtu.be/bjMbSA3Y2Y0
 
 # Result
