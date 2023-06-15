@@ -41,7 +41,7 @@ Besides, I tried to create other enivronments that is slightly changed from the 
 ### Settings
 
 #### [Behavior Tree]
-<img src="1stBehaviorTree.png" alt="drawing" width="680"/>
+<img src="./fig/common/1stBehaviorTree.png" alt="drawing" width="680"/>
 
 
 ## Environment
