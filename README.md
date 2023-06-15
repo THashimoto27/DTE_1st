@@ -70,6 +70,9 @@ Besides on this, this case does not give new food at the same place as they got 
 
 ## Comparison between Base and Half
 
+177.05. 172.82
+
+
 # Conclusion
 
 This case is the most simple to find an food at the Digital Twin for Economic model with two persons. There are two human beings with two desires for appetite adn sleep but without any memories. Also, the environment has multiple foods regularly, and so human beings are going to try to find them to have. Also, there are no restriction by community.
