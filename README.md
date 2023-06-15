@@ -87,13 +87,14 @@ Besides on this, this case does not give new food at the same place as they got 
 ### Time
 
 <img src="./fig/1st1/1st1_Time.png" alt="drawing" width="680"/>
+With results on it, the average of their lifetime span is 172.82.
 
 ### HP
 
 <img src="./fig/1st1/1st1_HP.png" alt="drawing" width="680"/>
 
 
-## Comparison between Base and Half
+## Discussion on the comparison between Base and Half
 
 177.05. 172.82
 
