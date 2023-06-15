@@ -36,7 +36,7 @@ https://youtu.be/bjMbSA3Y2Y0
 
 ## Half
 https://www.youtube.com/watch?v=lSqyQv6jtYU
-[![](ScreenShot00002.png)](https://www.youtube.com/watch?v=lSqyQv6jtYU "post title")
+[![](ScreenShot00000.png)](https://www.youtube.com/watch?v=lSqyQv6jtYU "post title")
 https://youtu.be/bjMbSA3Y2Y0
 
 # Result
