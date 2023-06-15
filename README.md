@@ -65,7 +65,7 @@ Besides on this, this case does not give new food at the same place as they got 
 
 ### HP
 
-<img src="0614_1st1HP.png" alt="drawing" width="680"/>
+<img src="0614_1stsHP.png" alt="drawing" width="680"/>
 
 
 ## Comparison between Base and Half
