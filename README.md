@@ -134,7 +134,7 @@ As a result of this, the average of their lifetime span is 177.05. They cannot l
 
 Gerald (1983) shows the example of the mathematical analysis of visual acuity by Shellen, which is
 
-<img src="./fig/appendix/eyesight.png" alt="drawing" width="680"/>
+<img src="./fig/appendix/eyesight.png" alt="drawing" width="400"/>
 
 $$
 w_S=1.45 \times 10^{-5}\times S \times d
@@ -144,7 +144,7 @@ where $w_s$ is the lenght or width of the object, is $S$ is the measure of the v
 
 Also, Howard (1995) shows the binocular vision covers 114 degrees of the visual field in humans, and so we assume human beings in the digital world have the visual field at its degrees.
 
-<img src="./fig/appendix/FoV.png" alt="drawing" width="400"/>
+<img src="./fig/appendix/FoV.png" alt="drawing" width="300"/>
 
 ### a.2 Walk speed
 
