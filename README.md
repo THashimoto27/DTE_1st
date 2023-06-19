@@ -1,4 +1,4 @@
-# EDT 1st
+# Basic Simulation of the Digital Twin for Economics
 
 # Summary
 
