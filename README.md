@@ -142,7 +142,9 @@ $$
 
 where $w_s$ is the lenght or width of the object, is $S$ is the measure of the vision($S$/20), and $d$ is the distance between their eyes and the object.
 
-Also, Howard (1995) shows the binocular vision covers 114 degrees of the visual field in humans, and so we assume human beings in the digital world have the visual field at its degress.
+Also, Howard (1995) shows the binocular vision covers 114 degrees of the visual field in humans, and so we assume human beings in the digital world have the visual field at its degrees.
+
+<img src="./fig/appendix/FoV.png" alt="drawing" width="680"/>
 
 ### a.2 Walk speed
 
