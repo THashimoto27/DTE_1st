@@ -127,9 +127,14 @@ As a result of this, the average of their lifetime span is 177.05. They cannot l
 ## a. Restriction on Human
 
 ### a.1 Eye sight and angle
+
+Gerald (1983) shows the example of the mathematical analysis of visual acuity by Shellen, which is
+
 $$
 w_S=1.45 \times 10^{-5}\times S \times d
 $$
+
+where $w_s$ is the lenght or width of the object, is $S$ is the measure of the vision($S$/20), and d is the distance between their eyes and the object.
 
 ### a.2 Walk speed
 
