@@ -124,8 +124,6 @@ As a result of this, the average of their lifetime span is 177.05. They cannot l
 
 # Appendix
 
-
-
 ## a. Restriction on Human
 
 ### a.1 Eye sight and angle
@@ -149,3 +147,15 @@ Also, Howard (1995) shows the binocular vision covers 114 degrees of the visual 
 ### a.2 Walk speed
 
 ### a.3 Memory
+
+## b. Restriction on Environment
+
+### b.1 Time
+
+In this setting, a second in the digital world is considered to be equal to a hour in the real world.
+
+### b.2 Field
+
+### b.3 Object
+
+### b.4 Allocation of the Object
