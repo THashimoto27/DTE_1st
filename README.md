@@ -115,3 +115,9 @@ With results on it, the average of their lifetime span is 172.82.
 This case is the most simple to find an food at the Digital Twin for Economic model with two persons. There are two human beings with two desires for appetite adn sleep but without any memories. Also, the environment has multiple foods regularly, and so human beings are going to try to find them to have. Also, there are no restriction by community.
 
 As a result of this, the average of their lifetime span is 177.05. They cannot live a life two days because they get starving in their slept and it is going to be harder for them to find new food as time goes.
+
+# Appendix
+
+## a. Human's eyesight
+
+
