@@ -144,7 +144,7 @@ where $w_s$ is the lenght or width of the object, is $S$ is the measure of the v
 
 Also, Howard (1995) shows the binocular vision covers 114 degrees of the visual field in humans, and so we assume human beings in the digital world have the visual field at its degrees.
 
-<img src="./fig/appendix/FoV.png" alt="drawing" width="680"/>
+<img src="./fig/appendix/FoV.png" alt="drawing" width="400"/>
 
 ### a.2 Walk speed
 
