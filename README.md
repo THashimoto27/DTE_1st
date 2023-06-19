@@ -159,6 +159,7 @@ In this setting, a second in the digital world is considered to be equal to a ho
 ### b.2 Field
 
 ### b.3 Object
+In this setting, apple is the only object that we can see, which diamter is assumed at 15 cm.
 
 ### c. Community
 There are not any restriction on the community because of the simple settings.
