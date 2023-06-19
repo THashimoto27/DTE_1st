@@ -160,4 +160,6 @@ In this setting, a second in the digital world is considered to be equal to a ho
 
 ### b.3 Object
 
-### b.4 Allocation of the Object
+### c. Community
+There are not any restriction on the community because of the simple settings.
+
