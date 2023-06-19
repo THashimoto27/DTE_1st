@@ -138,7 +138,7 @@ $$
 w_S=1.45 \times 10^{-5}\times S \times d
 $$
 
-where $w_s$ is the lenght or width of the object, is $S$ is the measure of the vision($S$/20), and d is the distance between their eyes and the object.
+where $w_s$ is the lenght or width of the object, is $S$ is the measure of the vision($S$/20), and $d$ is the distance between their eyes and the object.
 
 ### a.2 Walk speed
 
