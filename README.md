@@ -133,6 +133,7 @@ As a result of this, the average of their lifetime span is 177.05. They cannot l
 Gerald (1983) shows the example of the mathematical analysis of visual acuity by Shellen, which is
 
 <img src="./fig/appendix/eyesight.png" alt="drawing" width="680"/>
+
 $$
 w_S=1.45 \times 10^{-5}\times S \times d
 $$
