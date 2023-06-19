@@ -142,4 +142,4 @@ where $w_s$ is the lenght or width of the object, is $S$ is the measure of the v
 
 ### a.2 Walk speed
 
-### a.3 
+### a.3 Memory
