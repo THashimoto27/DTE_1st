@@ -116,8 +116,17 @@ This case is the most simple to find an food at the Digital Twin for Economic mo
 
 As a result of this, the average of their lifetime span is 177.05. They cannot live a life two days because they get starving in their slept and it is going to be harder for them to find new food as time goes.
 
+# Reference
+
+- Howett, G. L. (1983). Size of letters required for visibility as a function of viewing distance and observer visual acuity (No. NBS TN 1180 Final Rpt.).
+
 # Appendix
+
+
 
 ## a. Human's eyesight
 
+$$
+w_S=1.45 \times 10^{-5}\times S \times d
+$$
 
