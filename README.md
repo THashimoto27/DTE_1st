@@ -158,6 +158,8 @@ In this setting, a second in the digital world is considered to be equal to a ho
 
 ### b.2 Field
 
+The field in this setting is simply plain and there is no any bumpy roads.
+
 ### b.3 Object
 In this setting, apple is the only object that we can see, which diamter is assumed at 15 cm.
 
