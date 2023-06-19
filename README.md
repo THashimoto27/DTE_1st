@@ -124,9 +124,13 @@ As a result of this, the average of their lifetime span is 177.05. They cannot l
 
 
 
-## a. Human's eyesight
+## a. Restriction on Human
 
+### a.1 Eye sight and angle
 $$
 w_S=1.45 \times 10^{-5}\times S \times d
 $$
 
+### a.2 Walk speed
+
+### a.3 
