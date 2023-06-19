@@ -119,6 +119,8 @@ As a result of this, the average of their lifetime span is 177.05. They cannot l
 # Reference
 
 - Howett, G. L. (1983). Size of letters required for visibility as a function of viewing distance and observer visual acuity (No. NBS TN 1180 Final Rpt.).
+- Howard, I. P., & Rogers, B. J. (1995). Binocular vision and stereopsis. Oxford University Press, USA.
+
 
 # Appendix
 
@@ -139,6 +141,8 @@ w_S=1.45 \times 10^{-5}\times S \times d
 $$
 
 where $w_s$ is the lenght or width of the object, is $S$ is the measure of the vision($S$/20), and $d$ is the distance between their eyes and the object.
+
+Also, Howard (1995) shows the binocular vision covers 114 degrees of the visual field in humans, and so we assume human beings in the digital world have the visual field at its degress.
 
 ### a.2 Walk speed
 
