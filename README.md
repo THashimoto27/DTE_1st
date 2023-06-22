@@ -3,7 +3,7 @@
 # Summary
 
 Digital Twin is a virtual represntation of a physicail objectg or real wolrd system. This will help us understand many kinds of counterfactual events for the real world even if those does not happen in the real world.
-In this paper, I created the basic setting up for a human to begin with the application of the Digital Twin for Economics. He has some simple restrictions such as a power of bodies or something. Also, I made an environment simple. After creating the basic setting, I added new ability for human and enviroment sucha as a wall for environment and a memory for a human.
+In this paper, I created the basic setting for a human to begin with the application of the Digital Twin for Economics. He has some simple restrictions such as a power of bodies or something. Also, I made an environment simple. After creating the basic setting, I added new ability for human and enviroment sucha as a wall for environment and a memory for a human.
 These setting brought us different results from the basic setting up. Therefore, these restrictions affect the utility of human beings essentialy although the canonical economic model has dicarded or abstracted. So I proposed the economic model to simulate a real world should include these restrictions to get more precise results.
 
 # Introduction
